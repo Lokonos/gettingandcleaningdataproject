@@ -1,4 +1,4 @@
-#Getting and Cleaining Data Project
+# Getting and Cleaining Data Project
 
 The code run_analysis.R perform the following tasks:
 
